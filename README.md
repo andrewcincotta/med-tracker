@@ -5,10 +5,18 @@ Hosted locally via Docker, Med Tracker is an open source logger/viewer of any pr
 
 
 ## Software Stack
-- Docker (builder)
-- FastAPI (backend)
-- React.js (frontend)
-- SQLAlchemy (database)
+**Composer**
+- Docker
+- Vite
+- Uvicorn
+
+**Backend**
+- FastAPI
+- SQLAlchemy
+- Alembic
+
+**Frontend**
+- React.js
 
 ## Installation
 TODO: Build this out further before fixing README
